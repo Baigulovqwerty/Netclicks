@@ -1,7 +1,5 @@
 // menu
 
-console.log('test');
-
 const leftMenu = document.querySelector('.left-menu'),
     hamburger = document.querySelector('.hamburger'),
     tvShowList = document.querySelector('.tv-shows__list'),
